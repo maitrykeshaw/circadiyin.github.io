@@ -17,4 +17,4 @@ Allow: /
 User-agent: Storebot-Google
 Allow: /
 
-Sitemap: https://circadiyin.vercel.app
+Sitemap: https://circadiyin.vercel.app/sitemap.xml
