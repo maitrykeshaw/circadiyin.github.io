@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"CircadiYin™ (Official) Get 80% Off + 03 Free Bonuses",
+  "short_name":"CircadiYin™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"CircadiYin is a dual combination sleep supplement and weight loss supplement that promotes fat burning, better sleep, and better overall health.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
